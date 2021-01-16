@@ -1,0 +1,44 @@
+        /* ##### START GOBAL CSS##### */
+        
+        @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+        
+        body h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            font-family: 'Yeseva One', cursive;
+            font-weight: normal;
+        }
+        
+        .container_fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+        /* ======================= */
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        /* fornt  */
+        /* Start header section  */
+    
